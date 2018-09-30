@@ -10,6 +10,4 @@ display_board(board)
 turn(board)
 
 user_input = gets.strip
-
-while position_taken?(board, index)
-end
+index = input_to_index(user_input)
