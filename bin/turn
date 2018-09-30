@@ -10,3 +10,5 @@ display_board(board)
 turn(board)
 
 user_input = gets.strip
+
+while 
