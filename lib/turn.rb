@@ -28,8 +28,8 @@ def input_to_index(user_input)
   user_input.to_i - 1
 end
 
-def move(board, input_to_index, character = "X")
-  board()
+def move(board, index, character = "X")
+  board[index]
 end
 
 
