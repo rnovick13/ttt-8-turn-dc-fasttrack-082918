@@ -11,4 +11,4 @@ turn(board)
 
 user_input = gets.strip
 
-while 
+while position_taken?(board, index)
