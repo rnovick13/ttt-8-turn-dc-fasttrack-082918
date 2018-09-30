@@ -9,4 +9,4 @@ display_board(board)
 
 turn(board)
 
-user_input
+user_input = gets.strip
