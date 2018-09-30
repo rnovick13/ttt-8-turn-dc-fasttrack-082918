@@ -39,7 +39,7 @@ def turn(board)
   valid_move?(board, index)
   #while valid_move?(board, index) == nil
   #turn(board)
-end
+#end
 end
 
 
